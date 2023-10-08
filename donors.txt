@@ -1,0 +1,8 @@
+Mithu,22,B+
+Arif,22,A+
+Raihan,21,A+
+Zihad,22,A+
+Opu,17,AB+
+Naokib,18,O+
+mithu,18,a+
+MIthuu,21,B+
